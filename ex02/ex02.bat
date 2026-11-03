@@ -7,3 +7,15 @@ REM multe extensii deodata.
 
 REM Scrieti solutia mai jos:
 
+REM Problema 2
+
+@echo off
+
+:inceput
+if "%1"=="" goto final
+del *.%1
+shift
+goto inceput
+
+:final
+pause
