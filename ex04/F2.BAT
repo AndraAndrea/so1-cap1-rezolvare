@@ -4,3 +4,4 @@ REM Apeleaza F1.BAT cu diferite valori pentru parametri.
 
 REM Scrieti solutia mai jos:
 
+call F1.BAT test fisier
