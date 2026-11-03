@@ -6,3 +6,9 @@ REM parametru.
 
 REM Scrieti solutia mai jos:
 
+
+REM Problema 3
+
+dir *.%1
+
+pause
