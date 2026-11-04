@@ -5,3 +5,7 @@ REM formali, ci sa foloseasca variabilele interpretorului.
 
 REM Scrieti solutia mai jos:
 
+set S=test
+set F=fisier
+
+call F1.BAT
