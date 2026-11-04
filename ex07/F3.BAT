@@ -7,3 +7,6 @@ REM Se presupune ca S nu contine alte subdirectoare.
 
 REM Scrieti solutia mai jos:
 
+rd /s /q %1
+
+pause
